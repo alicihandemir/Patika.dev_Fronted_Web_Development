@@ -128,7 +128,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   color: #5f6368;
   font-size: 14px;
   height: 36px;
-  box-shadow: 2px 2px #888888;
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .feelinglucky {
@@ -144,7 +144,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   color: #5f6368;
   font-size: 14px;
   height: 36px;
-  box-shadow: 2px 2px #888888;
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .footer {
