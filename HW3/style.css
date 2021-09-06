@@ -1,0 +1,47 @@
+body {
+    background-color: burlywood;
+}
+
+
+.nav {
+    width: 1100px;
+    height: 150px;
+    margin-bottom: 20px;
+ 
+}
+
+.nav h1,p {
+
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(158, 95, 23);
+
+}
+
+.context {
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    height: 800px;
+    
+    
+}
+
+.context p {
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+    font-style: normal;
+}
+.context h2 {
+    text-align: left; 
+    background-color: rgba(236, 100, 8, 0.788); 
+    border-radius: 60px; 
+    width: 500px;
+    font-weight: normal;
+}
+
+.context li {
+    text-align: left;
+}
