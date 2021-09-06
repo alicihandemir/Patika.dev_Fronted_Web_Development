@@ -1,0 +1,29 @@
+.nav {
+    width: 1210px;
+    text-align: center;
+    margin: auto;
+    background-color: #eeeeee;
+    height: 62px;
+}
+
+.container {
+    width: 1210px;
+    height: 76px;
+    margin: auto;
+    margin-top: 3px;
+    text-align: center;
+    
+}
+
+
+.footer {
+    text-align: center;
+    height: 76px;
+    float: left;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.footer li {
+    list-style: none;
+}
